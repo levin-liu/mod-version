@@ -3,6 +3,6 @@ package fast
 import "fmt"
 
 func PrintSpeed() {
-	speed := "fast v1.0.0"
+	speed := "fast v2.2.3"
 	fmt.Println(speed)
 }
