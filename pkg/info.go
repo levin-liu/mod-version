@@ -4,7 +4,7 @@ import "fmt"
 
 func PrintVersion() string {
 	//version := "pseudo version"
-	version := "version is v2.1.0"
+	version := "version is v2.2.0"
 	fmt.Println(version)
 	return version
 }
